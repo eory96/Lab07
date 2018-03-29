@@ -1,5 +1,9 @@
 package edu.handong.csee.java.lab07.prob2;
-
+/**
+ * this is menu for chicken store
+ * @author samsung
+ *
+ */
 public class Chicken_main {
 
 	public static void main(String[] args) {

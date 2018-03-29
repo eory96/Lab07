@@ -1,5 +1,9 @@
 package edu.handong.csee.java.lab07.prob2;
-
+/**
+ * this class receive name, price, star from the main class
+ * @author samsung
+ *
+ */
 public class Chicken {
 
 	private String name;
