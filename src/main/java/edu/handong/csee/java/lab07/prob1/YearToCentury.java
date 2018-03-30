@@ -4,7 +4,7 @@ package edu.handong.csee.java.lab07.prob1;//package name
  * @author samsung
  *
  */
-public class YearToCentury {
+public class YearToCentury {//public class for YearToCentury
 	int cen;//it is variable for calculating century
 /**
  * this method is getter for using in main class
@@ -23,7 +23,7 @@ public class YearToCentury {
 	}
 /**
  * this method is setter using for receive icen
- * @param cen
+ * @param icen
  */
 	public void setYr(int icen) {//setYr receive parameter icen
 		this.cen = icen;////initialization cen as icen
