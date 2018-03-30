@@ -1,6 +1,6 @@
 package edu.handong.csee.java.lab07.prob2;
 /**
- * this is menu for chicken store
+ * this is menu for chicken store and print rating of each menu
  * @author samsung
  *
  */
