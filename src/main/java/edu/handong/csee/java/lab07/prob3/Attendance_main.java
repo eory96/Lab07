@@ -5,11 +5,6 @@ import java.util.Random;
 public class Attendance_main {
 
 	public static void main(String[] args) {
-		String iname;
-		int igrade;
-		int inumber;
-		int iabsence;
-		
 		Random randomGen = new Random();
 		
 		Attendance student1 = new Attendance("Jess",4,21400999,randomGen.nextInt(10));
